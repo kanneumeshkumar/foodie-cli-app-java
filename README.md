@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions, feedback, or support, please contact:
 
 - E-mail: foodie001@gmail.com
-- GitHub: [https://github.com/kanneumeshkumar]
+- GitHub: https://github.com/kanneumeshkumar
